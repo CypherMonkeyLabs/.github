@@ -3,17 +3,17 @@
 <p>
 <picture>
 <source media="(max-width: 760px)" srcset="assets/banner-mobile.svg">
-<img src="assets/banner.svg" alt="Holographic header for CypherMonkeyLabs. Lifelong student and AI enthusiast, from systems, networking, voice, and contact center toward AI agents." width="100%">
+<img src="assets/banner.svg" alt="Cypher Monkey Labs. A student’s open lab for learning and sharing: voice, networks, cloud and AI agents." width="100%">
 </picture>
 </p>
 
 ## About
 
-CypherMonkeyLabs is where [Lucky](https://github.com/cipher0x9) shares what he learns.
+Cypher Monkey Labs is where [Lucky](https://github.com/cipher0x9) shares what he learns.
 
-Lucky is a lifelong student and an AI enthusiast. He comes from systems, networking, voice, and contact center, and he is growing into AI omni-channel agents. He is learning programming languages, coding, servers, and cloud, through futuristic AI agents and Colossus-scale compute, and he shares what he learns in these labs.
+Lucky is a lifelong student and an AI enthusiast. He comes from systems, networking, voice, and contact center, and he is growing into AI omni-channel agents. He is learning programming languages, coding, servers, and cloud, through futuristic AI agents and Colossus-scale compute, and he shares what he learns here.
 
-The labs are free study floors that open in the browser. They are independent educational projects. Product and company names are there for study, and trademarks belong to their owners.
+The labs open in the browser. They are independent educational projects. Product names are used for learning, and trademarks belong to their owners.
 
 <p>
 <picture>
@@ -26,13 +26,13 @@ The mascot cycles on its own: voice headset, network shades, student cap, AI vis
 
 ## Labs
 
-Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.com.
+Each card opens a lab on cyphermonkeylabs.com.
 
 <p>
 <a href="https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-uc-mobile.svg">
-<img src="assets/lab-uc.svg" alt="UC Lab. Open the free voice, UC, and contact center study floor." width="100%">
+<img src="assets/lab-uc.svg" alt="UC Lab. Voice, UC, and contact centers." width="100%">
 </picture>
 </a>
 </p>
@@ -41,7 +41,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/amazon-connect-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-connect-mobile.svg">
-<img src="assets/lab-connect.svg" alt="Amazon Connect Lab. Open the free offline Amazon Connect campus." width="100%">
+<img src="assets/lab-connect.svg" alt="Amazon Connect Lab. Learning Amazon Connect." width="100%">
 </picture>
 </a>
 </p>
@@ -50,7 +50,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/microsoft-voice-cc-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-microsoft-mobile.svg">
-<img src="assets/lab-microsoft.svg" alt="Microsoft Voice and Contact Center Lab. Open the free offline campus." width="100%">
+<img src="assets/lab-microsoft.svg" alt="Microsoft Voice Lab. Voice and the contact center." width="100%">
 </picture>
 </a>
 </p>
@@ -59,7 +59,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/webex-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-webex-mobile.svg">
-<img src="assets/lab-webex.svg" alt="Webex Lab. Open the free Cisco Webex study console." width="100%">
+<img src="assets/lab-webex.svg" alt="Webex Lab. Calling, contact center, and APIs." width="100%">
 </picture>
 </a>
 </p>
@@ -68,7 +68,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/five9-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-five9-mobile.svg">
-<img src="assets/lab-five9.svg" alt="Five9 Lab. Open the free Five9 study campus." width="100%">
+<img src="assets/lab-five9.svg" alt="Five9 Lab. Routing, IVR, and the desktop." width="100%">
 </picture>
 </a>
 </p>
@@ -77,7 +77,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/genesys-cloud-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-genesys-mobile.svg">
-<img src="assets/lab-genesys.svg" alt="Genesys Cloud Lab. Open the free Genesys Cloud CX study campus." width="100%">
+<img src="assets/lab-genesys.svg" alt="Genesys Cloud Lab. Flows, routing, and APIs." width="100%">
 </picture>
 </a>
 </p>
@@ -86,7 +86,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/nice-cxone-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-nice-mobile.svg">
-<img src="assets/lab-nice.svg" alt="NICE CXone Lab. Open the free NiCE CXone study campus." width="100%">
+<img src="assets/lab-nice.svg" alt="NICE CXone Lab. Routing, IVR, and quality." width="100%">
 </picture>
 </a>
 </p>
@@ -95,7 +95,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/sip-universe-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-sip-mobile.svg">
-<img src="assets/lab-sip.svg" alt="SIP Universe Lab. Open the free SIP campus." width="100%">
+<img src="assets/lab-sip.svg" alt="SIP Universe Lab. Learning SIP in the open." width="100%">
 </picture>
 </a>
 </p>
@@ -104,7 +104,7 @@ Open a lab in the browser. Each card goes to a study floor on cyphermonkeylabs.c
 <a href="https://cyphermonkeylabs.com/ai-lab-free-university-mesmerizing/">
 <picture>
 <source media="(max-width: 760px)" srcset="assets/lab-ai-mobile.svg">
-<img src="assets/lab-ai.svg" alt="AI Lab. Open the free offline AI campus." width="100%">
+<img src="assets/lab-ai.svg" alt="AI Lab. Agents, retrieval, and tuning." width="100%">
 </picture>
 </a>
 </p>

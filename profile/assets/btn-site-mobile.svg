@@ -51,6 +51,20 @@
   <stop offset="0" stop-color="#161033"/>
   <stop offset="1" stop-color="#0b1a2a"/>
 </linearGradient>
+<linearGradient id="quiet" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#0b1020"/>
+  <stop offset="0.80" stop-color="#0b1020"/>
+  <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="quietv" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#0b1020"/>
+  <stop offset="0.68" stop-color="#0b1020"/>
+  <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glowbg" cx="50%" cy="42%" r="48%">
+  <stop offset="0" stop-color="#1a3a55" stop-opacity="0.45"/>
+  <stop offset="1" stop-color="#1a3a55" stop-opacity="0"/>
+</radialGradient>
 </defs>
 <rect x="14" y="16" width="656" height="128" rx="22" fill="#14081f"/><rect x="6" y="6" width="656" height="128" rx="22" fill="url(#card)" stroke="#ffe36a" stroke-width="2"/><rect x="6" y="6" width="10" height="128" rx="6" fill="#ffe36a"/><rect x="28" y="36" width="84" height="84" rx="18" fill="#070514" stroke="#ffe36a" stroke-opacity="0.7"/><g transform="translate(44.0 52.0) scale(2.1667)">
         <circle cx="12" cy="13" r="6.2" fill="#e39a52"/>
@@ -59,5 +73,5 @@
         <circle cx="10" cy="12.4" r="0.8" fill="#1a1020"/>
         <circle cx="14" cy="12.4" r="0.8" fill="#1a1020"/>
         <path d="M10 15.2 Q12 16.8 14 15.2" fill="none" stroke="#1a1020" stroke-width="0.7" stroke-linecap="round"/>
-        </g><text x="132" y="92" fill="#f7feff" font-size="32" font-weight="750" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" letter-spacing="0" text-anchor="start" opacity="1">Visit Cypher Monkey Labs</text><path d="M602 70.0 l14 8 l-14 8" fill="none" stroke="#ffe36a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </g><text x="132" y="92" fill="#f4f7fb" font-size="32" font-weight="600" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" letter-spacing="0" text-anchor="start" opacity="1">Visit Cypher Monkey Labs</text><path d="M602 70.0 l14 8 l-14 8" fill="none" stroke="#ffe36a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
