@@ -9,11 +9,7 @@
 
 ## About
 
-Cypher Monkey Labs is where [Lucky](https://github.com/cipher0x9) shares what he learns.
-
-Lucky is a lifelong student and an AI enthusiast. He comes from systems, networking, voice, and contact center, and he is growing into AI omni-channel agents. He is learning programming languages, coding, servers, and cloud, through futuristic AI agents and Colossus-scale compute, and he shares what he learns here.
-
-The labs open in the browser. They are independent educational projects. Product names are used for learning, and trademarks belong to their owners.
+Cypher Monkey Labs is [Lucky](https://github.com/cipher0x9)'s open lab for learning and sharing. He is a lifelong student and an AI enthusiast from systems, networking, voice, and contact center, growing into AI omni-channel agents. He learns by building, and he shares the work here.
 
 <p>
 <picture>
@@ -26,7 +22,7 @@ The mascot cycles on its own: voice headset, network shades, student cap, AI vis
 
 ## Labs
 
-Each card opens a lab on cyphermonkeylabs.com.
+Each lab has a live app and a repo.
 
 <p>
 <a href="https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/">
@@ -35,6 +31,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-uc.svg" alt="UC Lab. Voice, UC, and contact centers." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/uc-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -44,6 +42,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-connect.svg" alt="Amazon Connect Lab. Learning Amazon Connect." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/amazon-connect-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/amazon-connect-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -53,6 +53,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-microsoft.svg" alt="Microsoft Voice Lab. Voice and the contact center." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/microsoft-voice-cc-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/microsoft-voice-cc-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -62,6 +64,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-webex.svg" alt="Webex Lab. Calling, contact center, and APIs." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/webex-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/webex-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -71,6 +75,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-five9.svg" alt="Five9 Lab. Routing, IVR, and the desktop." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/five9-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/five9-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -80,6 +86,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-genesys.svg" alt="Genesys Cloud Lab. Flows, routing, and APIs." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/genesys-cloud-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/genesys-cloud-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -89,6 +97,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-nice.svg" alt="NICE CXone Lab. Routing, IVR, and quality." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/nice-cxone-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/nice-cxone-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -98,6 +108,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-sip.svg" alt="SIP Universe Lab. Learning SIP in the open." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/sip-universe-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/sip-universe-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>
@@ -107,6 +119,8 @@ Each card opens a lab on cyphermonkeylabs.com.
 <img src="assets/lab-ai.svg" alt="AI Lab. Agents, retrieval, and tuning." width="100%">
 </picture>
 </a>
+<br>
+<a href="https://cyphermonkeylabs.com/ai-lab-free-university-mesmerizing/">Open app</a> · <a href="https://github.com/CypherMonkeyLabs/ai-lab-free-university-mesmerizing">View repo</a>
 </p>
 
 <p>More · <a href="https://cyphermonkeylabs.com/gemini-gems-free-gallery/">gems shelf</a></p>
@@ -145,6 +159,15 @@ Each card opens a lab on cyphermonkeylabs.com.
 <picture>
 <source media="(max-width: 760px)" srcset="assets/btn-x-mobile.svg">
 <img src="assets/btn-x.svg" alt="Visit my X" width="100%">
+</picture>
+</a>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/luckylakshmanucwebex">
+<picture>
+<source media="(max-width: 760px)" srcset="assets/btn-linkedin-mobile.svg">
+<img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" width="100%">
 </picture>
 </a>
 </p>
