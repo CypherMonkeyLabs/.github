@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 168" width="1200" height="168" role="img">
-<title>NICE CXone Lab</title>
+<title>Contact Path</title>
 <defs>
 <style type="text/css"><![CDATA[
 @keyframes pulse { 0%,100% { opacity: .25 } 50% { opacity: 1 } }
@@ -71,5 +71,5 @@
       <path d="M-10 -8 H10 M-10 2 H4 M-10 12 H8" stroke="#7dfff6" stroke-width="2" stroke-linecap="round"/>
       <circle cx="8" cy="-8" r="2.4" fill="#ff8ad6"/>
       <circle cx="-2" cy="2" r="2.4" fill="#7cff6b"/>
-    </g><text x="176" y="74" fill="#f4f7fb" font-size="28" font-weight="600" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" letter-spacing="0" text-anchor="start" opacity="1">NICE CXone Lab</text><text x="176" y="114" fill="#d5dce6" font-size="20" font-weight="400" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" letter-spacing="0" text-anchor="start" opacity="1">Routing, IVR, and quality.</text>
+    </g><text x="176" y="74" fill="#f4f7fb" font-size="28" font-weight="600" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" letter-spacing="0" text-anchor="start" opacity="1">Contact Path</text><text x="176" y="114" fill="#d5dce6" font-size="20" font-weight="400" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" letter-spacing="0" text-anchor="start" opacity="1">NICE CXone: routing, IVR, quality.</text>
 </svg>
