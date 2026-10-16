@@ -22,9 +22,9 @@ The mascot cycles on its own: voice headset, network shades, student cap, AI vis
 
 ## Labs
 
-![Labs](https://img.shields.io/badge/labs-10_live-ff2bd6?style=for-the-badge&labelColor=0a0420) ![Free](https://img.shields.io/badge/cost-free-43E55E?style=for-the-badge&labelColor=0a0420) ![Offline](https://img.shields.io/badge/campus-offline_static-00f0ff?style=for-the-badge&labelColor=0a0420)
+![Labs](https://img.shields.io/badge/labs-11_live-ff2bd6?style=for-the-badge&labelColor=0a0420) ![Free](https://img.shields.io/badge/cost-free-43E55E?style=for-the-badge&labelColor=0a0420) ![Offline](https://img.shields.io/badge/campus-offline_static-00f0ff?style=for-the-badge&labelColor=0a0420)
 
-Ten live labs, each with a live app and a repo.
+Eleven live labs, each with a live app and a repo.
 
 <p>
 <a href="https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/">
@@ -134,6 +134,17 @@ Ten live labs, each with a live app and a repo.
 </a>
 <br>
 📋 <a href="https://cyphermonkeylabs.com/ba-lab-grok-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/ba-lab-grok-free-university-mesmerizing">View repo</a>
+</p>
+
+<p>
+<a href="https://cyphermonkeylabs.com/sutra-nexus/">
+<picture>
+<source media="(max-width: 760px)" srcset="assets/lab-sutra-mobile.svg">
+<img src="assets/lab-sutra.svg" alt="Sutra Nexus. Ancient rules. Living systems." width="100%">
+</picture>
+</a>
+<br>
+🧵 <a href="https://cyphermonkeylabs.com/sutra-nexus/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/sutra-nexus">View repo</a>
 </p>
 
 <p><sub>More · <a href="https://cyphermonkeylabs.com/gemini-gems-free-gallery/">Gemini Gems</a></sub></p>
