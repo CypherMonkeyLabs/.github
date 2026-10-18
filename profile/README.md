@@ -1,193 +1,54 @@
-# CypherMonkeyLabs
-
-<p>
+<p align="center">
 <picture>
-<source media="(max-width: 760px)" srcset="assets/banner-mobile.svg">
-<img src="assets/banner.svg" alt="Cypher Monkey Labs. A student’s open lab for learning and sharing: voice, networks, cloud and AI agents." width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner_org_dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/banner_org_light.svg">
+<img alt="Cypher Monkey banner" src="assets/banner_org_dark.svg" width="100%">
 </picture>
 </p>
 
-## About
+<h2 align="center">Free learning labs, built by a lifelong student 🐒</h2>
+<p align="center">Cypher Monkey Labs is the home of study labs by <b>Cypher Monkey</b> (@Cypher0x9). Open one and start learning.</p>
 
-Cypher Monkey Labs is Lucky's open lab for learning and sharing. He is a lifelong student and an AI enthusiast from systems, networking, voice, and contact center, growing into AI omni-channel agents. He learns by building, and he shares the work here.
-
-<p>
-<picture>
-<source media="(max-width: 760px)" srcset="assets/monkey-mobile.svg">
-<img src="assets/monkey.svg" alt="Animated monkey mascot. The look cycles through a voice headset, network shades, a student cap, an AI visor, a cloud, and agents, with orbiting rings." width="100%">
-</picture>
+<p align="center">
+<a href="https://cyphermonkeylabs.com"><img alt="Website" src="https://img.shields.io/badge/Website-cyphermonkeylabs.com-ff8a3d?style=flat-square"></a>
+<a href="https://linktr.ee/CypherMonkey"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-CypherMonkey-43e660?style=flat-square"></a>
+<a href="https://github.com/CypherMonkeyLabs"><img alt="GitHub org" src="https://img.shields.io/badge/GitHub-CypherMonkeyLabs-7c3aed?style=flat-square"></a>
 </p>
 
-The mascot cycles on its own: voice headset, network shades, student cap, AI visor, cloud, and agents.
+<p align="center"><img alt="Lifelong Student" src="https://img.shields.io/badge/Lifelong-Student-7c3aed?style=for-the-badge"> <img alt="AI Builder" src="https://img.shields.io/badge/AI-Builder-ff8a3d?style=for-the-badge"> <img alt="Python Learning" src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge"> <img alt="Free Labs" src="https://img.shields.io/badge/Free-Labs-2ea44f?style=for-the-badge"> <img alt="Offline Friendly" src="https://img.shields.io/badge/Offline-Friendly-0ea5e9?style=for-the-badge"> <img alt="Plain English" src="https://img.shields.io/badge/Plain-English-db2777?style=for-the-badge"></p>
 
-## Labs
+## 🧪 Lab Grid
+Click any lab to open it live.
 
-![Labs](https://img.shields.io/badge/labs-13_live-ff2bd6?style=for-the-badge&labelColor=0a0420) ![Free](https://img.shields.io/badge/cost-free-43E55E?style=for-the-badge&labelColor=0a0420) ![Offline](https://img.shields.io/badge/campus-offline_static-00f0ff?style=for-the-badge&labelColor=0a0420)
+| Lab | What you'll find | Open |
+|---|---|---|
+| 🐍 **Python Lab** | Free Python university: runnable code, games, quizzes, 3D rooms. | [Open lab](https://cyphermonkeylabs.com/python-lab-free-university-mesmerizing/) |
+| 🧠 **AI Lab** | 128 lessons: agents, MCP, RAG, evals, LoRA. | [Open lab](https://cyphermonkeylabs.com/ai-lab-free-university-mesmerizing/) |
+| 💎 **Gemini Gems** | 33 copy-ready Gemini Gems with guide and starters. | [Open lab](https://cyphermonkeylabs.com/gemini-gems-free-gallery/) |
+| 📜 **Sūtra Nexus** | Offline Sanskrit grammar study app. | [Open lab](https://cyphermonkeylabs.com/sutra-nexus/) |
+| 📊 **Business Analyst Lab** | Free business analyst learning lab. | [Open lab](https://cyphermonkeylabs.com/ba-lab-grok-free-university-mesmerizing/) |
+| 📡 **CPaaS Lab** | Twilio, Vonage, Bandwidth, Sinch, Telnyx and open options. | [Open lab](https://cyphermonkeylabs.com/cpaas-lab-free-university-mesmerizing/) |
+| 📞 **SIP Universe Lab** | Free SIP campus experience. | [Open lab](https://cyphermonkeylabs.com/sip-universe-lab-free-university-mesmerizing/) |
+| ☁️ **Amazon Connect Lab** | 18 tracks, 129 lessons, 24 labs. | [Open lab](https://cyphermonkeylabs.com/amazon-connect-lab-free-university-mesmerizing/) |
+| 🪟 **Microsoft Voice & CC Lab** | 17 tracks, 110 lessons, 25 labs. | [Open lab](https://cyphermonkeylabs.com/microsoft-voice-cc-lab-free-university-mesmerizing/) |
+| 🌐 **Genesys Cloud Lab** | Architect flows, routing, queues, APIs. | [Open lab](https://cyphermonkeylabs.com/genesys-cloud-lab-free-university-mesmerizing/) |
+| 5️⃣ **Five9 Lab** | VCC admin, IVR, routing, WFM, APIs. | [Open lab](https://cyphermonkeylabs.com/five9-lab-free-university-mesmerizing/) |
+| 🎥 **Webex Lab** | Control Hub, Calling, Contact Center, devices. | [Open lab](https://cyphermonkeylabs.com/webex-lab-free-university-mesmerizing/) |
+| 🎧 **NiCE CXone Lab** | ACD, Studio, routing, IVR, WFM, APIs. | [Open lab](https://cyphermonkeylabs.com/nice-cxone-lab-free-university-mesmerizing/) |
+| 🔊 **Zoom · Talkdesk · Avaya Lab** | Free contact center and UC study lab. | [Open lab](https://cyphermonkeylabs.com/zoom-talkdesk-avaya-lab-free-university-mesmerizing/) |
+| 📟 **Voice & UC Lab** | 580 sections in 14 tracks, no CDN. | [Open lab](https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/) |
 
-Thirteen live labs, plus Sutra Nexus, each with a live app and a repo. The newest is Python Lab.
+> 🌱 **These are just the basics.** I'm learning and playing, and this is the start: we're building 100+ labs across every area, and there's much more to come.
 
-<p>
-<a href="https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-uc-mobile.svg">
-<img src="assets/lab-uc.svg" alt="UC Lab. Voice, UC, and contact centers." width="100%">
-</picture>
-</a>
-<br>
-📞 <a href="https://cyphermonkeylabs.com/uc-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/uc-lab-free-university-mesmerizing">View repo</a>
-</p>
+## 🌟 How the labs work
+- 🆓 Free to use
+- 📴 Static pages with no install
+- 🎮 Lessons, quizzes and hands-on practice
+- 🗣️ Written in plain English
 
-<p>
-<a href="https://cyphermonkeylabs.com/ai-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-ai-mobile.svg">
-<img src="assets/lab-ai.svg" alt="AI Lab. Agents, retrieval, and tuning." width="100%">
-</picture>
-</a>
-<br>
-🧠 <a href="https://cyphermonkeylabs.com/ai-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/ai-lab-free-university-mesmerizing">View repo</a>
-</p>
+## 🔗 Links
+- 🌐 [cyphermonkeylabs.com](https://cyphermonkeylabs.com)
+- 🌳 [linktr.ee/CypherMonkey](https://linktr.ee/CypherMonkey)
+- 🏠 [github.com/CypherMonkeyLabs](https://github.com/CypherMonkeyLabs)
 
-<p>
-<a href="https://cyphermonkeylabs.com/amazon-connect-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-connect-mobile.svg">
-<img src="assets/lab-connect.svg" alt="Amazon Connect Lab. Learning Amazon Connect." width="100%">
-</picture>
-</a>
-<br>
-☁️ <a href="https://cyphermonkeylabs.com/amazon-connect-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/amazon-connect-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/microsoft-voice-cc-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-microsoft-mobile.svg">
-<img src="assets/lab-microsoft.svg" alt="Microsoft Voice Lab. Voice and the contact center." width="100%">
-</picture>
-</a>
-<br>
-🪟 <a href="https://cyphermonkeylabs.com/microsoft-voice-cc-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/microsoft-voice-cc-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/webex-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-webex-mobile.svg">
-<img src="assets/lab-webex.svg" alt="Webex Lab. Calling, contact center, and APIs." width="100%">
-</picture>
-</a>
-<br>
-🎥 <a href="https://cyphermonkeylabs.com/webex-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/webex-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/five9-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-five9-mobile.svg">
-<img src="assets/lab-five9.svg" alt="Five9 Lab. Routing, IVR, and the desktop." width="100%">
-</picture>
-</a>
-<br>
-🎧 <a href="https://cyphermonkeylabs.com/five9-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/five9-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/genesys-cloud-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-genesys-mobile.svg">
-<img src="assets/lab-genesys.svg" alt="Genesys Cloud Lab. Flows, routing, and APIs." width="100%">
-</picture>
-</a>
-<br>
-🔀 <a href="https://cyphermonkeylabs.com/genesys-cloud-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/genesys-cloud-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/nice-cxone-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-nice-mobile.svg">
-<img src="assets/lab-nice.svg" alt="Contact Path. NICE CXone: routing, IVR, quality." width="100%">
-</picture>
-</a>
-<br>
-🛰️ <a href="https://cyphermonkeylabs.com/nice-cxone-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/nice-cxone-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/sip-universe-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-sip-mobile.svg">
-<img src="assets/lab-sip.svg" alt="SIP Universe Lab. Learning SIP in the open." width="100%">
-</picture>
-</a>
-<br>
-🌐 <a href="https://cyphermonkeylabs.com/sip-universe-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/sip-universe-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/ba-lab-grok-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-ba-mobile.svg">
-<img src="assets/lab-ba.svg" alt="BA Lab. Requirements and process maps." width="100%">
-</picture>
-</a>
-<br>
-📋 <a href="https://cyphermonkeylabs.com/ba-lab-grok-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/ba-lab-grok-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/sutra-nexus/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-sutra-mobile.svg">
-<img src="assets/lab-sutra.svg" alt="Sutra Nexus. Ancient rules. Living systems." width="100%">
-</picture>
-</a>
-<br>
-🧵 <a href="https://cyphermonkeylabs.com/sutra-nexus/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/sutra-nexus">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/zoom-talkdesk-avaya-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-zta-mobile.svg">
-<img src="assets/lab-zta.svg" alt="Zoom, Talkdesk and Avaya Lab. 12 tracks, 36 lessons." width="100%">
-</picture>
-</a>
-<br>
-📹 <a href="https://cyphermonkeylabs.com/zoom-talkdesk-avaya-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/zoom-talkdesk-avaya-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/cpaas-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-cpaas-mobile.svg">
-<img src="assets/lab-cpaas.svg" alt="CPaaS Lab. 12 tracks, 36 lessons." width="100%">
-</picture>
-</a>
-<br>
-🔌 <a href="https://cyphermonkeylabs.com/cpaas-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/cpaas-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p>
-<a href="https://cyphermonkeylabs.com/python-lab-free-university-mesmerizing/">
-<picture>
-<source media="(max-width: 760px)" srcset="assets/lab-python-mobile.svg">
-<img src="assets/lab-python.svg" alt="Python Lab. Python that runs in the browser." width="100%">
-</picture>
-</a>
-<br>
-🐍 <a href="https://cyphermonkeylabs.com/python-lab-free-university-mesmerizing/">Open app</a> · 📦 <a href="https://github.com/CypherMonkeyLabs/python-lab-free-university-mesmerizing">View repo</a>
-</p>
-
-<p><sub>More · <a href="https://cyphermonkeylabs.com/gemini-gems-free-gallery/">Gemini Gems</a></sub></p>
-
-## Visit
-
-<p>
-<a href="https://cyphermonkeylabs.com"><img src="https://img.shields.io/badge/cyphermonkeylabs.com-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"></a>
-<a href="https://github.com/CypherMonkeyLabs"><img src="https://img.shields.io/badge/CypherMonkeyLabs-0a0420?style=for-the-badge&logo=github&logoColor=white" alt="GitHub org"></a>
-<a href="https://linktr.ee/cypherMonkey"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"></a>
-</p>
-
-<p>© 2026 CypherMonkeyLabs 🐒</p>
+> **Student project disclaimer:** These labs are independent learning projects made by a student. They are not affiliated with, endorsed by, or sponsored by any vendor or company named in them. Product names belong to their owners.
